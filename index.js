@@ -6,8 +6,6 @@ const config = require("./config.json");
 const chalk = require('chalk');
 const clear = require('clear');
 
-const client = new Discord.Client();
-
 var vimmchannel = config.vimmtvuser
 
 const bot = new Discord.Client({ disableEveryone: false });
