@@ -11,3 +11,8 @@ to get ChannelID of Server, please Turn on Developer Mode on your Discord user s
 Then after Set all up Created Discord BOT, then good GO
 
 
+
+
+![CONSOLE](https://cdn.discordapp.com/attachments/718534469832802363/736500834728280074/unknown.png)
+
+![Preview Chat](https://cdn.discordapp.com/attachments/718534469832802363/736500854198239262/Discord_3NnLAT2NLd.png)
