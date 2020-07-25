@@ -10,6 +10,8 @@ to get ChannelID of Server, please Turn on Developer Mode on your Discord user s
 
 Then after Set all up Created Discord BOT, then good GO
 
+Later Feature there will be able send from discord to VimmTV soon, waiting they release they Posting Request make me enable it / make it.
+
 
 
 
